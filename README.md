@@ -12,7 +12,7 @@ Projeto de agenda em JavaScript.
 
 :heavy_check_mark: `Funcionalidade 1:` Realizar cadastro dos usuários e login.
 
-:heavy_check_mark: `Funcionalidade 2:` Cadastar e armazena os contatos da agenda.
+:heavy_check_mark: `Funcionalidade 2:` Cadastrar e armazenar os contatos da agenda.
 
 :heavy_check_mark: `Funcionalidade 3:` Possibilita edição, exclusão e listagem.
 
